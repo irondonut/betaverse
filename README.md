@@ -16,3 +16,6 @@ https://www.youtube.com/watch?v=vGp11-vDGKk
 Render Streaming muss erst installiert werden:
 https://docs.unity3d.com/Packages/com.unity.renderstreaming@3.1/manual/tutorial.html
 
+Auf Server: 
+Docker installiert
+https://docs.docker.com/engine/install/ubuntu/#prerequisites
